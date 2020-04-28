@@ -1,0 +1,8 @@
+파일 삭제
+rm filename
+
+묻지도 따지지도 않고 파일 삭제
+rm -f filename
+
+폴더 삭제
+rm -r foldername
