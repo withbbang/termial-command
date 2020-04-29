@@ -1,3 +1,7 @@
+-brew command(번외)-
+brew install 'what you want to install'
+brew uninstall (--force) 'what you want to uninstall'
+
 파일 삭제
 rm filename
 
